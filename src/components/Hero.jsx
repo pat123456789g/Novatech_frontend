@@ -68,7 +68,7 @@ const Hero = () => {
           transition={{ duration: 1 }}
         >
           Build your software with <br />
-          Algoverse Solutions
+          Nova Tech Solutions Africa
         </motion.h1>
 
         {/* Subheading with Animation */}
