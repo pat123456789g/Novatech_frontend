@@ -125,7 +125,7 @@ const Footer = () => {
           </h2>
           <ul className="space-y-4">
             {[
-              { label: "Mobile", value: "+2547123456789", icon: "faPhone" },
+              { label: "Mobile", value: "+25471234546789", icon: "faPhone" },
               {
                 label: "Email",
                 value: "Example@gmail.com",
