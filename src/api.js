@@ -1,7 +1,8 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:8000', // This points to your Django backend
+  baseURL: 'https://novatech-backend-9kqw.onrender.com', // This points to your Django backend
+ // baseURL: 'http://localhost:8000', // This points to your Django backend
   headers: {
     'Content-Type': 'application/json',
   },
